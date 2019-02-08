@@ -2,6 +2,12 @@
   "plugins": [
     "-sharing",
     "hide-published-with",
-    "livereload"
-  ]
+    "livereload",
+    "uml"
+  ],
+  "pluginsConfig": {
+    "uml": {
+      "charset" : "UTF-8"
+    }
+  }
 }
