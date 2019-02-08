@@ -1,0 +1,17 @@
+.chapter span {
+  text-transform: uppercase !important;
+  color: #939da3 !important;
+}
+.markdown-section h2 {
+  border-bottom: 1px solid #939da3;
+}
+.markdown-section h4 {
+  border-bottom: 1px dotted #939da3;
+}
+.markdown-section img {
+  border: 1px solid #eee;
+}
+.exc-trigger {
+  top: 14px !important;
+  font-size: 0.5rem !important;
+}

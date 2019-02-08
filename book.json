@@ -3,11 +3,16 @@
     "-sharing",
     "hide-published-with",
     "livereload",
-    "uml"
+    "uml",
+    "expandable-chapters"
   ],
   "pluginsConfig": {
     "uml": {
       "charset" : "UTF-8"
     }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
   }
 }

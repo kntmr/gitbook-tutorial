@@ -1,0 +1,13 @@
+.section span {
+  text-transform: uppercase !important;
+  color: #939da3 !important;
+}
+.section h2 {
+  border-bottom: 1px solid #939da3;
+}
+.section h4 {
+  border-bottom: 1px dotted #939da3;
+}
+.page .section img {
+  border: 1px solid #eee;
+}
