@@ -1,6 +1,6 @@
 # UML
 
-ここでは、PlantUML で UML を記述する。事前に Graphviz をインストールする。
+ここでは、PlantUML で UML を記述する。事前に Graphviz をインストールして、環境変数 `GRAPHVIZ_DOT` (dot.exe ファイルのパス) を設定する。
 
 [Graphviz - Graph Visualization Software](https://graphviz.gitlab.io/_pages/Download/Download_windows.html)
 
