@@ -14,3 +14,4 @@
 - [UML](/pages/diagram.md)
 - カスタマイズ
   - [スタイル](/pages/styles.md)
+  - [プラグイン](/pages/plugins.md)
